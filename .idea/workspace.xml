@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f71165e-345f-4037-ac4e-ee8f4b1ac32b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/break.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
